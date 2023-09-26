@@ -1,0 +1,25 @@
+[
+    {
+        "title":"Password Generator ",
+        "imgsrc": "images/project.jpg",
+        "description":"This web is create by React js.",
+        "skills":["React","HTML","CSS","JS"],
+        "source":"https://demo-phi-drab.vercel.app/" 
+    },
+    
+    {
+        "title":"project B",
+        "imgsrc": "images/project.jpg",
+        "description":"this is a project made by the use of html ,css and js.",
+        "skills":["React","Express"],
+        "source":"http/github.com" 
+    },
+    
+    {
+        "title":"project C",
+        "imgsrc": "images/project.jpg",
+        "description":"this is a project made by the use of html ,css and js.",
+        "skills":["React","Express"],
+        "source":"http/github.com" 
+    }
+]
