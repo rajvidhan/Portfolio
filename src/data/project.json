@@ -8,18 +8,18 @@
     },
     
     {
-        "title":"project B",
-        "imgsrc": "images/project.jpg",
-        "description":"this is a project made by the use of html ,css and js.",
-        "skills":["React","Express"],
-        "source":"http/github.com" 
+        "title":"Portfolio",
+        "imgsrc": "images/port.jpeg",
+        "description":"this is a project made by the use of react.",
+        "skills":["React"],
+        "source":"https://portfolio-beta-five-53.vercel.app/" 
     },
     
     {
-        "title":"project C",
-        "imgsrc": "images/project.jpg",
+        "title":"Chat App",
+        "imgsrc": "images/chat.png",
         "description":"this is a project made by the use of html ,css and js.",
-        "skills":["React","Express"],
+        "skills":["Node JS","mongoDB","React JS" ],
         "source":"http/github.com" 
     }
 ]
